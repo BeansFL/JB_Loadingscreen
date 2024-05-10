@@ -1,0 +1,53 @@
+/*Gilroy*/
+/*Regular - 400 weight*/
+@font-face {
+    font-family: Gilroy400;
+    src: url(../fonts/Gilroy/Gilroy-Light.otf);
+}
+
+/*Semi bold - 600 weight*/
+@font-face {
+    font-family: Gilroy600;
+    src: url(../fonts/Gilroy/Gilroy-SemiBold.ttf);
+}
+
+
+/*Monument extended*/
+/*Regular - 400 weight*/
+@font-face {
+    font-family: MonumentExtended;
+    src: url(../fonts/MonumentExtended/MonumentExtended-Regular.otf);
+}
+
+
+
+/*Akrobat*/
+/*Black - 900 weight*/
+@font-face {
+    font-family: Akrobat900;
+    src: url(../fonts/Akrobat/Akrobat-Black.otf);
+}
+
+/*Black - 800 weight*/
+@font-face {
+    font-family: Akrobat800;
+    src: url(../fonts/Akrobat/Akrobat-ExtraBold.otf);
+}
+
+/*Black - 700 weight*/
+@font-face {
+    font-family: Akrobat700;
+    src: url(../fonts/Akrobat/Akrobat-Bold.otf);
+}
+
+/*Black - 600 weight*/
+@font-face {
+    font-family: Akrobat600;
+    src: url(../fonts/Akrobat/Akrobat-SemiBold.otf);
+}
+
+/*Black - 500 weight*/
+@font-face {
+    font-family: Akrobat500;
+    src: url(../fonts/Akrobat/Akrobat-Regular.otf);
+}
